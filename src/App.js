@@ -11,9 +11,10 @@ function App() {
 
   const createUser = async () => {
     await addDoc(usersCollectionReference, {
-      names: newName,
+      name: newName,
       age: Number(newAge)
     })
+    window.location.reload(true)
   }
   const updateUser = async (id, age, parameter) => {
     const userDoc = doc(db, 'users', id)
