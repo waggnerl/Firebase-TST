@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Firebase-TST/static/css/main.abd64e84.css",
+    "main.js": "/Firebase-TST/static/js/main.f29dedb8.js",
+    "index.html": "/Firebase-TST/index.html",
+    "main.abd64e84.css.map": "/Firebase-TST/static/css/main.abd64e84.css.map",
+    "main.f29dedb8.js.map": "/Firebase-TST/static/js/main.f29dedb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f29dedb8.js"
+  ]
+}
